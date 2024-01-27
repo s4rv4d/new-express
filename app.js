@@ -20,6 +20,10 @@ app.get("/", (req, res) => {
         content="https://i.postimg.cc/bYmpZ67C/photo-2024-01-27-13-55-13.jpg"
       />
       <meta property="fc:frame:button:1" content="change image" />
+      <meta
+      property="fc:frame:post_url"
+      content="https://express-sarvad.onrender/update-meta"
+    />
     </head>
     <body>
     <p> testing </p>
